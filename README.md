@@ -1,2 +1,3 @@
 # bb-nao-correntista-selenium-py
-### com bug
+## Bug
+### código possue bug no try e no exception
